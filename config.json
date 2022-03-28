@@ -1,0 +1,9 @@
+{
+	"ip":"elaiotr.aternos.me",
+	"port": 42827,
+	"name": "24/7 server",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
